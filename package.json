@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  },
+  "name": "infoware",
+  "version": "1.0.0",
+  "description": "Its an internship task",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "nodejs"
+  ],
+  "author": "Pruthviraj Jadhav",
+  "license": "ISC"
+}
